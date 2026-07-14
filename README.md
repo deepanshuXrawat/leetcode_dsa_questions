@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0342-power-of-four) |
 | [1688-count-of-matches-in-tournament](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/1688-count-of-matches-in-tournament) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
@@ -39,9 +40,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
