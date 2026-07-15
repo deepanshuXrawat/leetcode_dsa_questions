@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3895-count-digit-appearances](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/3945-digit-frequency-score) |
 ## Hash Table
