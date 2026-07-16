@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0342-power-of-four) |
 | [1688-count-of-matches-in-tournament](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/1688-count-of-matches-in-tournament) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/1929-concatenation-of-array) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/2180-count-integers-with-even-digit-sum) |
 ## String
 |  |
 | ------- |
