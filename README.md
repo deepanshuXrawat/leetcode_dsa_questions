@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0027-remove-element) |
 | [1929-concatenation-of-array](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/1929-concatenation-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3895-count-digit-appearances](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/3895-count-digit-appearances) |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0342-power-of-four) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
