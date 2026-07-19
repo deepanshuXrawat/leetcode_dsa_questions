@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0027-remove-element) |
+| [0485-max-consecutive-ones](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0485-max-consecutive-ones) |
 | [1929-concatenation-of-array](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/1929-concatenation-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3895-count-digit-appearances](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/3895-count-digit-appearances) |
