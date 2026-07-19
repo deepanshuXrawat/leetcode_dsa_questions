@@ -4,16 +4,18 @@ public:
         int count = 0;
         int ans = 0;
 
+        // check max if nums[i] == 1, rather than checking two times 
+
         for (int i = 0; i < nums.size(); i++) {
             if (nums[i] == 1) {
                 count++;
-            } else {
                 ans = max(ans, count);
+            } else {
                 count = 0;
             }
         }
 
-        ans = max(count, ans);
+        // ans = max(count, ans);
 
         return ans;
     }
