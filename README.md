@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0029-divide-two-integers) |
 | [0168-excel-sheet-column-title](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0342-power-of-four) |
 | [1688-count-of-matches-in-tournament](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/1688-count-of-matches-in-tournament) |
@@ -22,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0268-missing-number) |
 | [3945-digit-frequency-score](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/3945-digit-frequency-score) |
 ## Array
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0485-max-consecutive-ones) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/1929-concatenation-of-array) |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -69,6 +73,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0268-missing-number) |
 | [1859-sorting-the-sentence](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
