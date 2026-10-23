@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0485-max-consecutive-ones) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/1929-concatenation-of-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0283-move-zeroes) |
 | [0917-reverse-only-letters](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0917-reverse-only-letters) |
 ## Sorting
 |  |
