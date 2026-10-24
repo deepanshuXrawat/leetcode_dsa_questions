@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0056-merge-intervals) |
+| [0084-largest-rectangle-in-histogram](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -130,4 +131,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0209-minimum-size-subarray-sum) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
