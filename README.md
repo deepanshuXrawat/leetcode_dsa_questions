@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/1929-concatenation-of-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3895-count-digit-appearances](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/3925-concatenate-array-with-reverse) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0268-missing-number) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/0084-largest-rectangle-in-histogram) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/deepanshuXrawat/leetcode_dsa_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
